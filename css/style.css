@@ -167,14 +167,18 @@ li {
 }
 
 /* MAIN */
+.hero {
+  padding-top: 49px;
+  padding-bottom: 247px;
+}
+
 .hero-first-image {
   display: flex;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 49px;
 }
 
-.hero {
+.hero-box {
   display: flex;
   margin-right: auto;
   margin-left: auto;
@@ -202,10 +206,6 @@ li {
 }
 
 /* CARDS */
-
-.card-container{
-  padding-bottom: 247px;
-}
 
 .card-list {
   display: flex;
